@@ -1,5 +1,4 @@
-![iPhone 13 Pro Max - 1](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/ef4226b8-f3ea-4ae3-b53f-21a8aa869b44)
-![iPhone 13 Pro Max - 3](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/5b531c2d-d241-490c-9ad5-bdca197f5173)
+![iPhone 13 Pro Max - 1](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/ef4226b8-f3ea-4ae3-b53f-21a8aa869b44) ![iPhone 13 Pro Max - 3](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/5b531c2d-d241-490c-9ad5-bdca197f5173)
 ![iPhone 13 Pro Max - 4](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/ded0f7dc-a51f-4105-8ea1-0bbbd3f53207)
 ![iPhone 13 Pro Max - 5](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/ffbbd328-290c-49ab-8da0-99392225d5f3)
 ![iPhone 13 Pro Max - 8](https://github.com/theshashanknanda/StudentStatusTrackerHOD/assets/79598875/4dc2b04e-4e4d-4817-83bb-129b28e606cb)
